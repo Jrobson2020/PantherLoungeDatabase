@@ -1,0 +1,92 @@
+<html>
+
+<head>
+   <title>
+      Plan
+   </title>
+   <script src="../script.js">
+   </script>
+   <link rel="stylesheet" href="../style.css">
+   <link rel="favicon"
+      href="../lounge_logo_trans.png">
+</head>
+
+<header>
+
+   <h1>
+      <a href="../index.html">
+         Panther Lounge Database
+      </a>
+   </h1>
+
+   <button onclick="drpdn('plan')" class="drpdn">
+      Plan
+   </button>
+   <div id="plan" class="drpdnCntnt">
+      <a href="plan/plan.html">
+         Plan
+      </a>
+      <a href="plan/presentation.html">
+         Presentation
+      </a>
+   </div>
+
+   <button onclick="drpdn('m1')" class="drpdn">
+      Milestone 1
+   </button>
+   <div id="m1" class="drpdnCntnt">
+      <a href="eval.html">
+         Milestone Evalution
+      </a>
+      <a href="presentaion.html">
+         Milestone Presentation
+      </a>
+      <a href="test.html">
+         Test Document
+      </a>
+      <a href="requirements.html">
+         Requirements Document
+      </a>
+      <a href="design.html">
+         Design Document
+      </a>
+   </div>
+
+   <button onclick="drpdn('m2')" class="drpdn">
+      Milestone 2
+   </button>
+   <div id="m2" class="drpdnCntnt">
+   </div>
+
+   <button onclick="drpdn('m3')" class="drpdn">
+      Milestone 3
+   </button>
+   <div id="m3" class="drpdnCntnt">
+   </div>
+
+   <button onclick="drpdn('m4')" class="drpdn">
+      Milestone 4
+   </button>
+   <div id="m4" class="drpdnCntnt">
+   </div>
+
+   <button onclick="drpdn('m5')" class="drpdn">
+      Milestone 5
+   </button>
+   <div id="m5" class="drpdnCntnt">
+   </div>
+
+   <button onclick="drpdn('m6')" class="drpdn">
+      Milestone 6
+   </button>
+   <div id="m6" class="drpdnCntnt">
+   </div>
+
+</header>
+
+<body>
+   <iframe
+      src="https://docs.google.com/document/d/e/2PACX-1vQBg1dhEk47bY6knhBVBSGGVCKWdLLdLYdA6ebqfQTCBsBd-OAfuuo7kbI0zPwFiNRoyrUf_M33M6Py/pub?embedded=true">
+   </iframe>
+
+</html>
