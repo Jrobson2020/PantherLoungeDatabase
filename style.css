@@ -76,6 +76,11 @@ th {
 
 .faq {display: block;}
 
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
 .hidden {
   display: none;
   overflow: auto;
