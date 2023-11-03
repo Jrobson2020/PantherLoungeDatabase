@@ -81,6 +81,7 @@ th {
   overflow: auto;
   position: absolute;
   z-index: 1;
+  background-color: lightcoral;
 }
 
 .hidden a {
